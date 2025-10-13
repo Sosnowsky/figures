@@ -3,3 +3,6 @@
 *.pdf
 *.png
 *.log
+*.pdf_tex
+*.eps
+*.eps_tex
