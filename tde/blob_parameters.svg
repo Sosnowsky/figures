@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    sodipodi:docname="blob_parameters.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
      showborder="true"
      borderlayer="true"
      inkscape:zoom="1.4815911"
-     inkscape:cx="2057.5853"
-     inkscape:cy="1778.8309"
+     inkscape:cx="2071.4217"
+     inkscape:cy="1782.8806"
      inkscape:window-width="2490"
      inkscape:window-height="1376"
      inkscape:window-x="0"
@@ -127,8 +127,8 @@
        refY="0"
        orient="auto-start-reverse"
        inkscape:stockid="Triangle arrow"
-       markerWidth="1"
-       markerHeight="1"
+       markerWidth="2"
+       markerHeight="2"
        viewBox="0 0 1 1"
        inkscape:isstock="true"
        inkscape:collect="always"
@@ -547,100 +547,86 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="93.376236"
-       y="705.64587"
+       x="93.358734"
+       y="704.30365"
        id="text29"
        transform="rotate(-40.438933)"><tspan
          sodipodi:role="line"
          id="tspan29"
          style="stroke-width:0.264583"
-         x="93.376236"
-         y="705.64587">$\ellx$</tspan></text>
+         x="93.358734"
+         y="704.30365">$\ellx$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="680.79956"
-       y="-128.98564"
+       x="681.94861"
+       y="-130.00523"
        id="text30"
        transform="rotate(51.045403)"><tspan
          sodipodi:role="line"
          id="tspan30"
          style="stroke-width:0.264583"
-         x="680.79956"
-         y="-128.98564">$\elly$</tspan></text>
+         x="681.94861"
+         y="-130.00523">$\elly$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.165, 0.165;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
        d="m 541.47449,470.88327 77.13986,-0.4972"
        id="path30"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.165, 0.165;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 503.80007,502.81099 85.09701,-72.36355"
-       id="path31"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="572.43091"
-       y="456.20425"
+       x="557.047"
+       y="464.01083"
        id="text31"
        transform="rotate(-0.18998194)"><tspan
          sodipodi:role="line"
          id="tspan31"
          style="stroke-width:0.264583"
-         x="572.43091"
-         y="456.20425">$\alpha$</tspan></text>
+         x="557.047"
+         y="464.01083">$\alpha$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="m 541.31877,471.07163 64.42506,-0.50375"
+       d="m 541.31877,471.07163 59.87914,-13.76268"
        id="path32"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="600.42902"
-       y="469.15192"
+       x="595.57379"
+       y="453.42596"
        id="text32"
        transform="rotate(-0.12026299)"><tspan
          sodipodi:role="line"
          id="tspan32"
          style="stroke-width:0.264583"
-         x="600.42902"
-         y="469.15192">$v$</tspan></text>
+         x="595.57379"
+         y="453.42596">$u$</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:0.4, 0.1;stroke-dashoffset:0"
+       style="fill:none;stroke:#800000;stroke-width:0.1;stroke-dasharray:0.4, 0.1;stroke-dashoffset:0;stroke-opacity:1"
        id="path33"
        sodipodi:type="arc"
        sodipodi:cx="541.36407"
        sodipodi:cy="470.51257"
        sodipodi:rx="34.720638"
        sodipodi:ry="34.720638"
-       sodipodi:start="5.5909314"
+       sodipodi:start="6.0717984"
        sodipodi:end="0.0052859319"
        sodipodi:arc-type="arc"
-       d="m 568.09235,448.3513 a 34.720638,34.720638 0 0 1 7.99188,22.3448"
+       d="m 575.31186,463.22762 a 34.720638,34.720638 0 0 1 0.77237,7.46848"
        sodipodi:open="true" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.165, 0.165;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 501.98218,423.98268 68.9852,81.54748"
-       id="path36"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="619.05334"
-       y="473.05344"
+       x="612.83148"
+       y="468.2851"
        id="text37"
        transform="rotate(-0.18998194)"><tspan
          sodipodi:role="line"
          id="tspan37"
          style="stroke-width:0.264583"
-         x="619.05334"
-         y="473.05344">$x$</tspan></text>
+         x="612.83148"
+         y="468.2851">$x$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.165, 0.165;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
        d="m 541.47449,470.88327 -0.0174,-72.70722"
@@ -649,30 +635,55 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="538.49768"
-       y="396.67749"
+       x="530.83002"
+       y="401.36542"
        id="text38"
        transform="rotate(-0.18998194)"><tspan
          sodipodi:role="line"
          id="tspan38"
          style="stroke-width:0.264583"
-         x="538.49768"
-         y="396.67749">$y$</tspan></text>
+         x="530.83002"
+         y="401.36542">$y$</tspan></text>
     <path
        style="fill:#808080;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#Triangle);marker-end:url(#Triangle)"
-       d="m 503.12588,202.71751 c 7.9008,9.40489 15.80159,18.80978 23.70239,28.21468"
+       d="m 503.37843,203.22261 c 7.70086,9.05764 15.40172,18.11527 23.10258,27.17291"
        id="path38"
        inkscape:path-effect="#path-effect40"
-       inkscape:original-d="m 503.12588,202.71751 c 7.9008,9.40489 15.80159,18.80978 23.70239,28.21468"
+       inkscape:original-d="m 503.37843,203.22261 c 7.70086,9.05764 15.40172,18.11527 23.10258,27.17291"
        transform="translate(15.610799,237.96973)"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#808080;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#Triangle);marker-end:url(#Triangle)"
-       d="m 503.12588,202.71751 c 3.88238,4.64716 7.76477,9.29433 11.64716,13.94149"
+       d="m 503.31529,203.47516 c 3.71402,4.2999 7.42804,8.59981 11.14206,12.89972"
        id="path39"
        inkscape:path-effect="#path-effect42"
-       inkscape:original-d="m 503.12588,202.71751 c 3.88238,4.64716 7.76477,9.29433 11.64716,13.94149"
+       inkscape:original-d="m 503.31529,203.47516 c 3.71402,4.2999 7.42804,8.59981 11.14206,12.89972"
        transform="rotate(90,387.72222,354.35751)"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="581.11493"
+       y="470.27075"
+       id="text34"
+       transform="rotate(-0.18998194)"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         style="stroke-width:0.264583"
+         x="581.11493"
+         y="470.27075">$\beta$</tspan></text>
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.1;stroke-dasharray:0.4, 0.1;stroke-dashoffset:0;stroke-opacity:1"
+       id="path34"
+       sodipodi:type="arc"
+       sodipodi:cx="542.66162"
+       sodipodi:cy="470.73828"
+       sodipodi:rx="14.822185"
+       sodipodi:ry="13.795346"
+       sodipodi:start="5.4977871"
+       sodipodi:end="0"
+       sodipodi:arc-type="arc"
+       d="m 553.14249,460.9835 a 14.822185,13.795346 0 0 1 4.34132,9.75478"
+       sodipodi:open="true" />
   </g>
 </svg>
