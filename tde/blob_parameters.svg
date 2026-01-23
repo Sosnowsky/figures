@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    sodipodi:docname="blob_parameters.svg"
+   inkscape:export-filename="blob_parameters.pdf"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +28,9 @@
      inkscape:document-units="mm"
      showborder="true"
      borderlayer="true"
-     inkscape:zoom="1.4815911"
-     inkscape:cx="2071.4217"
-     inkscape:cy="1782.8806"
+     inkscape:zoom="2.0952862"
+     inkscape:cx="2184.9044"
+     inkscape:cy="1714.5629"
      inkscape:window-width="2490"
      inkscape:window-height="1376"
      inkscape:window-x="0"
@@ -660,30 +663,59 @@
        inkscape:original-d="m 503.31529,203.47516 c 3.71402,4.2999 7.42804,8.59981 11.14206,12.89972"
        transform="rotate(90,387.72222,354.35751)"
        sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2"
+       id="path34"
+       cx="598.95911"
+       cy="458.95197"
+       r="0.71432215" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2"
+       id="circle34"
+       cx="598.95911"
+       cy="437.52231"
+       r="0.71432215" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2"
+       id="circle35"
+       cx="621.28168"
+       cy="458.95197"
+       r="0.71432215" />
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="581.11493"
-       y="470.27075"
-       id="text34"
+       x="587.47687"
+       y="458.31403"
+       id="text35"
        transform="rotate(-0.18998194)"><tspan
          sodipodi:role="line"
-         id="tspan34"
+         id="tspan35"
          style="stroke-width:0.264583"
-         x="581.11493"
-         y="470.27075">$\beta$</tspan></text>
-    <path
-       style="fill:none;stroke:#800000;stroke-width:0.1;stroke-dasharray:0.4, 0.1;stroke-dashoffset:0;stroke-opacity:1"
-       id="path34"
-       sodipodi:type="arc"
-       sodipodi:cx="542.66162"
-       sodipodi:cy="470.73828"
-       sodipodi:rx="14.822185"
-       sodipodi:ry="13.795346"
-       sodipodi:start="5.4977871"
-       sodipodi:end="0"
-       sodipodi:arc-type="arc"
-       d="m 553.14249,460.9835 a 14.822185,13.795346 0 0 1 4.34132,9.75478"
-       sodipodi:open="true" />
+         x="587.47687"
+         y="458.31403">$P_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="588.72125"
+       y="435.0032"
+       id="text36"
+       transform="rotate(-0.18998194)"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="stroke-width:0.264583"
+         x="588.72125"
+         y="435.0032">$P_2$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="611.7561"
+       y="457.96341"
+       id="text39"
+       transform="rotate(-0.18998194)"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         style="stroke-width:0.264583"
+         x="611.7561"
+         y="457.96341">$P_1$</tspan></text>
   </g>
 </svg>
